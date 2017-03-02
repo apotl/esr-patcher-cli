@@ -1,0 +1,4 @@
+*.o
+esr_patcher
+settings.json
+*.swp
